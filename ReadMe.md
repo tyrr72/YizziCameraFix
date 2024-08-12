@@ -1,5 +1,5 @@
 # Yizzi Camera Mod Fix
-## REQUIRES YIZZI CAMERA MOD, THIS IS NOT A STANDALONE MOD.
+## REQUIRES YIZZI CAMERA MOD + UTILLA, THIS IS NOT A STANDALONE MOD.
 
 # Puts your camera in first person with the average montage settings
 
